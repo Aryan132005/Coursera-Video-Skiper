@@ -22,8 +22,8 @@ dependencies = [
 skipera = "skipera.main:main"
 
 [project.urls]
-Homepage = "https://github.com/Aryan132005/Coursera-Video-Skip"
-Issues = "https://github.com/Aryan132005/Coursera-Video-Skip/issues"
+Homepage = "https://github.com/Aryan132005/Coursera-Video-Skiper"
+Issues = "https://github.com/Aryan132005/Coursera-Video-Skiper/issues"
 
 [tool.setuptools.packages.find]
 include = ["skipera*"]

@@ -20,8 +20,8 @@ pip install skipera
 Or install from source:
 
 ```bash
-git clone https://github.com/Aryan132005/Coursera-Video-Skip
-cd Coursera-Video-Skip
+git clone https://github.com/Aryan132005/Coursera-Video-Skiper
+cd Coursera-Video-Skiper
 pip install .
 ```
 
